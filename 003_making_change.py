@@ -10,7 +10,7 @@ quarter = cents_user / 25
 cents_user %= 25
 
 dime = cents_user / 10
-cents_user %= 10
+cents_user %=10
 
 nickel = cents_user / 5
 cents_user %= 5
