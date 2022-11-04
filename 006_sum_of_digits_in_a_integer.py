@@ -1,5 +1,5 @@
 import math
-num= (input("please enter the four digit number: "))
+num= (input("please enter the four digit number:"))
 c1= int(num[0])
 c2=int(num[1])
 c3=int(num[2])
