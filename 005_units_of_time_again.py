@@ -1,4 +1,4 @@
-seconds = int(input('Enter a number of seconds: '))
+seconds = int(input('Enter a number of seconds:'))
 day = str(seconds // 60 // 60 // 24)
 hour = str((seconds // 60 // 60) % 24) 
 min = str((seconds // 60) % 60)
