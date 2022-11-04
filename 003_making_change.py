@@ -4,7 +4,7 @@ toonie = cents_user / 200
 cents_user %= 200
 
 loonie = cents_user / 100
-cents_user %= 100
+cents_user %=100
 
 quarter = cents_user / 25
 cents_user %= 25
