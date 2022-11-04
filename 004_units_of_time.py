@@ -1,2 +1,6 @@
-#test 
-# test 2
+days=int(input("insert number of days:"))
+hours=int(input("insert number of hours:"))
+minutes=int(input("insert number of minutes:"))
+seconds=int(input("insert number of seconds:"))
+tot=(days*24*60*60 + hours*60*60 +minutes*60 + seconds)
+print("total number of second is:",tot)
