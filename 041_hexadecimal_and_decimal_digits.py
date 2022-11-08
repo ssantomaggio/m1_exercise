@@ -17,7 +17,7 @@ def int2hex(string2):
             return "non valido"
         elif tohex>9 and tohex<16:
             i=tohex-10
-            converted_ex=lst[i]
+            converted_ex= lst[i]
             return converted_ex
         return tohex
         
