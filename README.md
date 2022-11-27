@@ -1,1 +1,3 @@
-# m1_exercise
+# Exercises M1 from Stefano
+
+Python Exercises
